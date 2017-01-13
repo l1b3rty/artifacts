@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.glau</groupId>
+  <artifactId>extended-state-persistence</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170113233333</lastUpdated>
+  </versioning>
+</metadata>
