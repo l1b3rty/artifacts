@@ -1,5 +1,6 @@
-# artifacts
+### Explore artifacts repository via
 
+```xml
 <repositories>
     <repository>
         <id>l1b3rty</id>
@@ -7,3 +8,4 @@
         <url>https://raw.githubusercontent.com/l1b3rty/artifacts/repository</url>
     </repository>
 </repositories>
+```
